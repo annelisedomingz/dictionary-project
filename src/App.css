@@ -1,6 +1,10 @@
-header,
-#App-header {
+h1 {
   font-size: 40px;
-  margin: 0 auto;
-  display: block;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.App-footer {
+  text-align: center;
+  margin: 50px 0;
 }
