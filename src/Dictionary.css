@@ -1,9 +1,31 @@
-form {
-  width: 100%;
-  margin-top: 30px;
+.Dictionary section {
+  background: white;
+  padding: 30px;
+  margin: 20px 0;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+  border-radius: 5px;
 }
 
-input {
-  display: block;
-  margin: 0 auto;
+.Dictionary input {
+  width: 100%;
+  padding: 8px 8px;
+  border: 1px solid #ddd;
+
+  border-radius: 5px;
+  color: rgb(90, 90, 90);
+}
+
+a {
+  color: rgb(16, 28, 83);
+}
+
+.Dictionary .hint {
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.Dictionary h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 15px 0;
 }

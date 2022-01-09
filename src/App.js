@@ -9,7 +9,7 @@ function App() {
           <h1>Dictionary App</h1>
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="Sunset" />
         </main>
         <footer className="App-footer">
           <a href="https://github.com/annelisedomingz/dictionary-project">

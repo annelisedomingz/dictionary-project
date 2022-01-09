@@ -1,7 +1,19 @@
+body {
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(87, 152, 235) 0%,
+    rgb(133, 222, 213) 67%
+  );
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+}
+
 h1 {
   font-size: 40px;
   margin-top: 50px;
   text-align: center;
+  color: rgb(16, 28, 83);
 }
 
 .App-footer {
