@@ -12,7 +12,11 @@ function App() {
           <Dictionary defaultKeyword="Sunset" />
         </main>
         <footer className="App-footer">
-          <a href="https://github.com/annelisedomingz/dictionary-project">
+          <a
+            href="https://github.com/annelisedomingz/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
             Coded by Annelise Dominguez
           </a>
         </footer>
