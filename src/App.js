@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noreferrer"
           >
-            Coded by Annelise Dominguez
+            Coded by Annelise Dominguez | view my github
           </a>
         </footer>
       </div>
